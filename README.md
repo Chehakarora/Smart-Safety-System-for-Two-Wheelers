@@ -36,6 +36,7 @@ An IoT-based rider safety solution developed using ESP32 and multiple sensors to
 
  ## Project Highlights
 -Presented at IEI Conference
--Presented during National Science Day ans secured 3rd Position
+
+-Presented during National Science Day and secured 3rd Position
 
 For detailed implementation, hardware setup, circuit diagrams, and code explanations, refer to the project report included in this repository.
